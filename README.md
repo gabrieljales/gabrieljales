@@ -1,6 +1,6 @@
 
 # Hi, I'm Gabriel :wave: :man_technologist:
-I'm a computer science student at UERN who aims to become a backend developer. Currently living in Mossoró, RN - Brazil. :brazil:
+I'm a computer science student at [UERN](http://www.uern.br/default.asp) who aims to become a backend developer. Currently living in Mossoró, RN - Brazil. :brazil:
 
 Big fan of Linux and Android.
 
