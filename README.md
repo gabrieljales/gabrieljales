@@ -10,8 +10,7 @@ Big fan of Linux and Android.
 Django was my starting point in web development and it's the tool I'm focusing on right now 
 
 #### Study goals for the future:
-* **JS, CSS and HTML**
-* **Flutter**
+* **Golang**
 
 ## Get in touch :speech_balloon:
 
