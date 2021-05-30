@@ -19,3 +19,4 @@ Django was my starting point in web development and it's the tool I'm focusing o
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljales&layout=compact&langs_count=16&theme=dracula"/>
