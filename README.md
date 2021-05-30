@@ -18,4 +18,4 @@ Django was my starting point in web development and it's the tool I'm focusing o
 [![Linkedin Badge](https://img.shields.io/badge/Gabriel%20Jales-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jales-baa3861b2/)](https://www.linkedin.com/in/gabriel-jales-baa3861b2/)
 
 
-https://github-readme-stats.vercel.app/api?username=gabrieljales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieljales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
