@@ -17,3 +17,5 @@ Django was my starting point in web development and it's the tool I'm focusing o
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/gabriel_jaless)
 [![Linkedin Badge](https://img.shields.io/badge/Gabriel%20Jales-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jales-baa3861b2/)](https://www.linkedin.com/in/gabriel-jales-baa3861b2/)
 
+
+https://github-readme-stats.vercel.app/api?username=gabrieljales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
