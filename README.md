@@ -4,12 +4,13 @@ I'm a computer science student at [UERN](http://www.uern.br/default.asp) who aim
 
 Big fan of Linux and Android.
 
-#### My favorite technologies are:
-* **Python3:** It was my first language and also my first contact with programming. This is where it all started!
-* **Django:** Initially, I started to study this framework for a project from my college.
-Django was my starting point in web development and it's the tool I'm focusing on right now 
+#### Currently studying:
+* **Python3**
+* **Django**
+* **JavaScript/NodeJS**
 
 #### Study goals for the future:
+* **TypeScript**
 * **Golang**
 
 <div>
