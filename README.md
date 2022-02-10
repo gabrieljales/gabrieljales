@@ -4,14 +4,15 @@ I'm a computer science student at [UERN](http://www.uern.br/default.asp) who aim
 
 Big fan of Linux and Android.
 
-#### Currently studying:
-* **Python3**
-* **Django**
+#### Technologies that I am studying and that interest me ate the moment:
 * **JavaScript/NodeJS**
-
-#### Study goals for the future:
 * **TypeScript**
 * **Golang**
+
+#### Other technologies I've had contact with:
+* **Python3**
+* **Django**
+
 
 <div>
   <a href="https://github.com/gabrieljales">
