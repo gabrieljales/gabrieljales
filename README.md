@@ -8,6 +8,8 @@ Big fan of Linux and Android.
 * **JavaScript/NodeJS**
 * **TypeScript**
 * **Golang**
+* **PostgreSQL**
+* **Docker/Docker-compose**
 
 #### Other technologies I've had contact with:
 * **Python3**
