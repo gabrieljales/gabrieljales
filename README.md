@@ -15,7 +15,7 @@ Big fan of Linux.
 #### Other technologies I've had contact with:
 * **Python3**
 * **Django**
-* * **Golang**
+* **Golang**
 
 
 <div>
