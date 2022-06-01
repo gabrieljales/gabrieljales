@@ -4,15 +4,18 @@ Bachelor of Computer Science from [UERN](http://www.uern.br/default.asp). Back-e
 Big fan of Linux.
 
 #### Technologies that I am studying and that interest me ate the moment:
-* **JavaScript/NodeJS**
+* **JavaScript**
 * **TypeScript**
-* **Golang**
+* **NodeJS**
+* **NestJS**
+* **React**
 * **PostgreSQL**
 * **Docker/Docker-compose**
 
 #### Other technologies I've had contact with:
 * **Python3**
 * **Django**
+* * **Golang**
 
 
 <div>
