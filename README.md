@@ -29,4 +29,5 @@ Big fan of Linux.
 ## Get in touch :speech_balloon:
 
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/gabriel_jaless)
-[![Linkedin Badge](https://img.shields.io/badge/Gabriel%20Jales-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jales-baa3861b2/)](https://www.linkedin.com/in/gabriel-jales/)
+[![Linkedin Badge](https://img.shields.io/badge/Gabriel%20Jales-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gabriel-jales-baa3861b2/](https://www.linkedin.com/in/gabriel-jales/))](https://www.linkedin.com/in/gabriel-jales/)
+[![Gmail Badge](https://img.shields.io/badge/Gabriel%20Jales-0073b1?style=flat-square&logo=Gmail&logoColor=white&link=gabrielnjales@gmail.com)](gabrielnjales@gmail.com)
