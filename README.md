@@ -30,4 +30,4 @@ Big fan of Linux.
 
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/gabriel_jaless)
 [![Linkedin Badge](https://img.shields.io/badge/Gabriel%20Jales-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gabriel-jales-baa3861b2/](https://www.linkedin.com/in/gabriel-jales/))](https://www.linkedin.com/in/gabriel-jales/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielnjales@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrielnjales@gmail.com)](mailto:gabrielnjales@gmail.com)
