@@ -20,7 +20,7 @@
 
 <h2 align="left">Technologies that I am studying and focusing ate the moment</h2>
 
-    Javascript, Typescript, NodeJS, NestJS, Docker, Heroku, Linux e Bash
+    Javascript, Typescript, NodeJS, NestJS, Docker, Heroku, Linux and Bash
 
 ###
 
@@ -40,7 +40,7 @@
 
 <h2 align="left">Other technologies I've had contact with</h2>
 
-    Python, Django, Flask, Golang, MongoDB, HTML, CSS, TailwindCSS, Bootstrap e React
+    Python, Django, Flask, Golang, MongoDB, HTML, CSS, TailwindCSS, Bootstrap and React
 
 ###
 
