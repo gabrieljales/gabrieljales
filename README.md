@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2019<br>🎓 Bachelor of Computer Science from UERN<br>📚 I'm currently learning Typescript, NestJS and Docker<br>🐧 Big fan of Linux</p>
+<p align="left">✨ Programming since 2019<br>🎓 Bachelor of Computer Science from UERN<br>📚 I'm currently learning Java and Spring<br>🐧 Big fan of Linux</p>
 
 ###
 
