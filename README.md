@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Back-end developer, currently living in Rio Grande do Norte - Brazil. 🇧🇷</p>
+<p align="left">Currently living in Rio Grande do Norte - Brazil. 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2019<br>🎓 Bachelor of Computer Science from UERN<br>📚 I'm currently learning Java and Spring<br>🐧 Big fan of Linux</p>
+<p align="left">✨ Programming since 2019<br>🎓 Bachelor of Computer Science from UERN<br>🐧 Big fan of Linux</p>
 
 ###
 
@@ -18,9 +18,9 @@
 
 ###
 
-<h2 align="left">Technologies that I am studying and focusing ate the moment</h2>
+<h2 align="left">Technologies I've already had contact with</h2>
 
-    Javascript, Typescript, NodeJS, NestJS, Java, Spring, Postgres, Docker, Linux and Bash
+    Python, Robot Framework, Javascript, Typescript, NodeJS, NestJS, Java, Spring, Postgres, Docker, Linux, Bash, Postman, Django, Flask, Golang, MongoDB, HTML, CSS, TailwindCSS, Bootstrap and React.
 
 ###
 
@@ -35,17 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-</div>
-
-###
-
-<h2 align="left">Other technologies I've had contact with</h2>
-
-    Python, Django, Flask, Golang, MongoDB, HTML, CSS, TailwindCSS, Bootstrap and React
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" width="52" alt="django logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
@@ -56,6 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+</div>
+
+###
+
+<div align="left">
+  
 </div>
 
 ###
