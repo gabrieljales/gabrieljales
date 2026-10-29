@@ -15,7 +15,7 @@
   🎯 Currently focusing mainly on <strong>API Testing</strong> using <strong>Java, REST Assured, Bruno API Client, Kafka, and Oracle DB</strong>.<br>
   ✨ Programming since 2019<br>
   🎓 Bachelor of Computer Science from UERN<br>
-  📚 Preparing for the ISTQB CTFL certification<br>
+  📜 ISTQB® Certified Tester Foundation Level (CTFL)<br>
   🐧 Big fan of Linux
 </p>
 
